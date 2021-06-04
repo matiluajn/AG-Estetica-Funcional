@@ -1,0 +1,31 @@
+C:\Users\eze_i\OneDrive\Escritorio\Proyecto AG Estetica Funcional\Sistema AG Estética Funcional\AGEsteticaFuncinal\AGEsteticaFuncinal\bin\Debug\AGEsteticaFuncinal.exe.config
+C:\Users\eze_i\OneDrive\Escritorio\Proyecto AG Estetica Funcional\Sistema AG Estética Funcional\AGEsteticaFuncinal\AGEsteticaFuncinal\bin\Debug\AGEsteticaFuncinal.exe
+C:\Users\eze_i\OneDrive\Escritorio\Proyecto AG Estetica Funcional\Sistema AG Estética Funcional\AGEsteticaFuncinal\AGEsteticaFuncinal\bin\Debug\AGEsteticaFuncinal.pdb
+C:\Users\eze_i\OneDrive\Escritorio\Proyecto AG Estetica Funcional\Sistema AG Estética Funcional\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.csprojResolveAssemblyReference.cache
+C:\Users\eze_i\OneDrive\Escritorio\Proyecto AG Estetica Funcional\Sistema AG Estética Funcional\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.Properties.Resources.resources
+C:\Users\eze_i\OneDrive\Escritorio\Proyecto AG Estetica Funcional\Sistema AG Estética Funcional\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.csproj.GenerateResource.Cache
+C:\Users\eze_i\OneDrive\Escritorio\Proyecto AG Estetica Funcional\Sistema AG Estética Funcional\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.exe
+C:\Users\eze_i\OneDrive\Escritorio\Proyecto AG Estetica Funcional\Sistema AG Estética Funcional\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.pdb
+C:\Users\eze_i\OneDrive\Escritorio\Proyecto AG Estetica Funcional\Sistema AG Estética Funcional\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.Form1.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\bin\Debug\AGEsteticaFuncinal.exe.config
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.exe
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.pdb
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\bin\Debug\AGEsteticaFuncinal.exe
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\bin\Debug\AGEsteticaFuncinal.pdb
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.csprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.Form1.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.Properties.Resources.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.csproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.menuPrincipal.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmProveedores.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmAltaProveedor.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmModificar.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmCliente.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmAltaCliente.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmClienteModificar.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmServicios.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmCargarServicio.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmModificarServicio.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmproductos.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmAltaProducto.resources
+C:\Users\Soporte\Desktop\Cervantes 3er cuatrimestre\Base de datoas 1\DRIVE\AGEsteticaFuncinal\AGEsteticaFuncinal\obj\Debug\AGEsteticaFuncinal.frmModificarProducto.resources
